@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sign-in-app/static/css/main.073c9b0a.css",
+    "main.js": "/sign-in-app/static/js/main.620aff5d.js",
+    "static/js/787.7d591b1d.chunk.js": "/sign-in-app/static/js/787.7d591b1d.chunk.js",
+    "index.html": "/sign-in-app/index.html",
+    "main.073c9b0a.css.map": "/sign-in-app/static/css/main.073c9b0a.css.map",
+    "main.620aff5d.js.map": "/sign-in-app/static/js/main.620aff5d.js.map",
+    "787.7d591b1d.chunk.js.map": "/sign-in-app/static/js/787.7d591b1d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.620aff5d.js"
+  ]
+}
